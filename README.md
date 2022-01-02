@@ -1,4 +1,8 @@
 # Baltimore-Education
+
+<img width="435" alt="Baltimore_Common_Education_Attainment" src="https://user-images.githubusercontent.com/45469389/147863037-459e1334-9cf8-412b-8e95-b3459eb34ed6.png">
+
+
 Using Census Bureau's API to create a Choropleth Map using Geopandas.
 
 In this example, we're going to use Census Bureau's application programming interface (API) to pull certain education variables to create a choropleth map to show common education attainment in all census tracts of Baltimore City, MD.
